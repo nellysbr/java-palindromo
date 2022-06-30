@@ -1,4 +1,4 @@
-# java-palindromo (palindrome).
+# java-palindromo (palindrome)
 
 
 Classe java para checar se um número é palindromo.
